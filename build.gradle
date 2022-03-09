@@ -34,6 +34,8 @@ repositories {
 }
 
 dependencies {
+    implementation 'io.leopard:leopard-proxy:0.9.12'
+
     // Spring boot web starter
     compile('org.springframework.boot:spring-boot-starter-web')
     
